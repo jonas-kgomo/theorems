@@ -36,3 +36,18 @@ $\forall f \in \mathcal{H}', \exists y \in \mathcal{H} \text{ such that } f(x) =
    $\eta$ is the learning rate,
    $\nabla J(\theta)$ is the gradient of the loss function with respect to the parameters
    2. 
+
+
+### Square to Circle
+
+Here is the video for the Square to Circle transformation:
+
+<video src="/media/videos/manim/1080p60/SquareToCircle.mp4" width="480" height="270" controls></video>
+
+### Fill by Value Example
+
+Here is the video for the Fill by Value Example:
+
+<video src="media/videos/gradient/1080p60/FillByValueExample.mp4" width="480" height="270" controls></video>
+
+

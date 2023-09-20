@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "manim"
+version = "0.17.3"
+description = "math animations for python scripts"
+authors = ["jonas-kgomo <jonaskgmoo@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
