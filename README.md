@@ -21,3 +21,18 @@ $\forall f \in \mathcal{H}', \exists y \in \mathcal{H} \text{ such that } f(x) =
    $\text{ Then, there exists a spectral measure } E \text{ such that}$
    $A = \int_{\sigma(A)} \lambda \, dE(\lambda),$
    $\text{where } \sigma(A) \text{ is the spectrum of } A.$
+
+## Linear Algebra
+
+1. **Gradient Descent** 
+  
+   Gradient descent is a simple and effective algorithm for finding the minimum of a function. It is often used in machine learning to train models.
+   
+   $\theta_n+1 = \theta_n - \eta \nabla J(\theta_n)$
+    where:
+    
+   $\theta$ is the parameter vector , 
+   $J(\theta)$ is the loss function  ,
+   $\eta$ is the learning rate,
+   $\nabla J(\theta)$ is the gradient of the loss function with respect to the parameters
+   2. 
