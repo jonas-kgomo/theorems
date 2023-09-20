@@ -1,4 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/jonaskgomo/Documents/Projects/theorems/media/videos/gradient/1080p60/partial_movie_files/GradientDescent/1413466013_3312141250_2263194434.mp4'
-file 'file:/Users/jonaskgomo/Documents/Projects/theorems/media/videos/gradient/1080p60/partial_movie_files/GradientDescent/1672018281_3783369682_3079950975.mp4'
-file 'file:/Users/jonaskgomo/Documents/Projects/theorems/media/videos/gradient/1080p60/partial_movie_files/GradientDescent/1672018281_329969645_3213426018.mp4'
